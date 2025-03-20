@@ -122,7 +122,7 @@ label {
 					left: 20px;
 					width: 35px;
 					height: 35px;
-					background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/LogoNoText.png);
+					background-image: url(../Bilder/LogoNoText.png);
 					background-size: contain;
 					background-position: 0% 0%;
 					background-repeat: no-repeat;
@@ -374,7 +374,7 @@ label {
 			top: 50px;
 			height: 475px;
 			width: 100%;
-			background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/MainPage.jpg);
+			background-image: url(../Bilder/MainPage.jpg);
 			background-size: cover;
 			background-position: 0% 50%;
 			background-repeat: no-repeat;
@@ -389,7 +389,7 @@ label {
 			top: 50px;
 			height: 475px;
 			width: 100%;
-			background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/InnenjalousienBanner8.jpg);
+			background-image: url(../Bilder/InnenjalousienBanner8.jpg);
 			background-size: cover;
 			background-position: 0% 50%;
 			background-repeat: no-repeat;
@@ -404,7 +404,7 @@ label {
 			top: 50px;
 			height: 475px;
 			width: 100%;
-			background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/InnenjalousienBanner8.jpg);
+			background-image: url(../Bilder/InnenjalousienBanner8.jpg);
 			background-size: cover;
 			background-position: 0% 50%;
 			background-repeat: no-repeat;
@@ -419,7 +419,7 @@ label {
 			top: 50px;
 			height: 475px;
 			width: 100%;
-			background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/InnenjalousienBanner4.jpg);
+			background-image: url(../Bilder/InnenjalousienBanner4.jpg);
 			background-size: cover;
 			background-position: 0% 50%;
 			background-repeat: no-repeat;
@@ -434,7 +434,7 @@ label {
 			top: 50px;
 			height: 475px;
 			width: 100%;
-			background-image: url(file:///C:/Users/Julia/Desktop/Homepage/Bilder/InnenjalousienBanner6.jpg);
+			background-image: url(../Bilder/InnenjalousienBanner6.jpg);
 			background-size: cover;
 			background-position: 0% 50%;
 			background-repeat: no-repeat;
