@@ -705,7 +705,7 @@ label {
 
 		}
 
-		.ArrowRight1, .ArrowRight2, .ArrowRight3 {
+		.ArrowRight1, .ArrowRight12, .ArrowRight2, .ArrowRight3 {
 
 
 			height: 25px;
@@ -718,6 +718,12 @@ label {
 		}
 
 		#KatalogToggle1:checked ~ .ArrowRight1 {
+
+			rotate: 90deg;
+
+		}
+
+		#KatalogToggle12:checked ~ .ArrowRight12 {
 
 			rotate: 90deg;
 
